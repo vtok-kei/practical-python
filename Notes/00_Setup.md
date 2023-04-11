@@ -54,7 +54,7 @@ historical record of your work when you're done.
 If you don't want to create a personal fork or don't have a GitHub account,
 you can still clone the course directory to your machine:
 
-```
+```bash
 bash % git clone https://github.com/dabeaz-course/practical-python
 bash % cd practical-python
 bash %
@@ -87,12 +87,3 @@ most out of the course however, you should try to create your own
 solutions first.
 
 [Contents](Contents.md) \| [Next (1 Introduction to Python)](01_Introduction/00_Overview.md)
-
-
-
-
-
-
-
-
-

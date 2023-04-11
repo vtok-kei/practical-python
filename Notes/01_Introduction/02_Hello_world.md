@@ -1,9 +1,34 @@
 [Contents](../Contents.md) \| [Previous (1.1 Python)](01_Python.md) \| [Next (1.3 Numbers)](03_Numbers.md)
 
+- [1.2 A First Program](#12-a-first-program)
+  - [Overview](#overview)
+    - [Running Python](#running-python)
+    - [Interactive Mode](#interactive-mode)
+    - [Creating programs](#creating-programs)
+    - [Running Programs](#running-programs)
+    - [A Sample Program](#a-sample-program)
+    - [Statements](#statements)
+    - [Comments](#comments)
+    - [Variables](#variables)
+    - [Types](#types)
+    - [Case Sensitivity](#case-sensitivity)
+    - [Looping](#looping)
+    - [Indentation](#indentation)
+    - [Indentation best practices](#indentation-best-practices)
+    - [Conditionals](#conditionals)
+    - [Printing](#printing)
+    - [User input](#user-input)
+    - [pass statement](#pass-statement)
+  - [Exercises](#exercises)
+    - [Exercise 1.5: The Bouncing Ball](#exercise-15-the-bouncing-ball)
+    - [Exercise 1.6: Debugging](#exercise-16-debugging)
+
 # 1.2 A First Program
 
 This section discusses the creation of your first program, running the
 interpreter, and some basic debugging.
+
+## Overview
 
 ### Running Python
 
@@ -63,7 +88,7 @@ Let's take a closer look at the elements of the REPL:
 The `...` prompt may or may not be shown depending on your environment. For this course,
 it is shown as blanks to make it easier to cut/paste code samples.
 
-The underscore `_` holds the last result.
+> The underscore `_` holds the last result.
 
 ```python
 >>> 37 * 42
@@ -101,7 +126,7 @@ bash %
 
 Or from the Windows shell:
 
-```
+```bash
 C:\SomeFolder>hello.py
 hello world
 
