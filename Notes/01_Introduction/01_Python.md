@@ -1,6 +1,20 @@
 [Contents](../Contents.md) \| [Next (1.2 A First Program)](02_Hello_world.md)
 
+- [1.1 Python](#11-python)
+  - [overview](#overview)
+    - [What is Python?](#what-is-python)
+    - [Where to get Python?](#where-to-get-python)
+    - [Why was Python created?](#why-was-python-created)
+    - [Where is Python on my Machine?](#where-is-python-on-my-machine)
+  - [Exercises](#exercises)
+    - [Exercise 1.1: Using Python as a Calculator](#exercise-11-using-python-as-a-calculator)
+    - [Exercise 1.2: Getting help](#exercise-12-getting-help)
+    - [Exercise 1.3: Cutting and Pasting](#exercise-13-cutting-and-pasting)
+    - [Exercise 1.4: Where is My Bus?](#exercise-14-where-is-my-bus)
+
 # 1.1 Python
+
+## overview
 
 ### What is Python?
 
@@ -38,7 +52,7 @@ Python is typically installed on your machine as a program that runs
 from the terminal or command shell. From the terminal, you should be
 able to type `python` like this:
 
-```
+```bash
 bash $ python
 Python 3.8.1 (default, Feb 20 2020, 09:29:22)
 [Clang 10.0.0 (clang-1000.10.44.4)] on darwin
@@ -197,4 +211,3 @@ If you can't make this work, don't worry about it.  The rest of this course
 has nothing to do with parsing XML.
 
 [Contents](../Contents.md) \| [Next (1.2 A First Program)](02_Hello_world.md)
-
